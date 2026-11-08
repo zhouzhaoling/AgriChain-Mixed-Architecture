@@ -1,0 +1,12 @@
+# --- Java 忽略项 ---
+java-backend/target/
+java-backend/.idea/
+*.iml
+
+# --- Python 忽略项 ---
+python-reflect-service/__pycache__/
+python-reflect-service/.venv/
+python-reflect-service/*.db
+
+# --- 通用忽略项 ---
+.DS_Store
